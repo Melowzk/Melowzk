@@ -11,10 +11,6 @@ As a developer, my goal is to build robust, scalable back-end solutions, and I a
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="42" alt=".NET logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42" alt="gcp logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo" />
@@ -27,7 +23,6 @@ As a developer, my goal is to build robust, scalable back-end solutions, and I a
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql logo" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="42" alt="bigquery logo" />
 </div>
 
 # 📊 GitHub Stats:
