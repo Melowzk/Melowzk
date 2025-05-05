@@ -1,6 +1,6 @@
 # 💫 About Me:
 😁 Welcome to my personal and academic projects lab!<br>
-👦🏻 My name is **Alexandre**, an 19-year-old developer passionate about **Back-End development**. Currently studying **Systems Analysis and Development**, I am constantly improving my skills and learning new technologies.<br>
+👦🏻 My name is **Alexandre**, an 19-year-old developer passionate about **Front-End development**. Currently studying **Systems Analysis and Development**, I am constantly improving my skills and learning new technologies.<br>
 📚 I am focused on **Back-End development** with **JavaScript and .Node.Js**, and I leverage **Firewall** for networking service, monitoring, and scalability.<br>
 
 As a developer, my goal is to build robust, scalable back-end solutions, and I am excited to gain practical experience through internships that allow me to contribute and grow further in this field.
