@@ -1,7 +1,7 @@
 # 💫 About Me:
 😁 Welcome to my personal and academic projects lab!<br>
 👦🏻 My name is **Alexandre**, an 19-year-old developer passionate about **Front-End development**. Currently studying **Systems Analysis and Development**, I am constantly improving my skills and learning new technologies.<br>
-📚 I am focused on **Front-End development** with **JavaScript and .Node.Js**, and I leverage **Firewall** for networking service, monitoring, and scalability.<br>
+📚 I am focused on **Front-End development** with **JavaScript**, and I leverage **Firewall** for networking service, monitoring, and scalability.<br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](dre0692@gmail.com)
